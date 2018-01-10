@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+    <html>
+    
+    
+    <!--
+                    
+       /|  |\      _____
+      / |  | \    /
+     /__|  | /   /
+    /   |  | \  /_____
+    
+    
+    55555
+    
+    Hey fool get outa my code! I worked hard on this! Don't change it even with google inspect, nobody appreciates it. Stop. Leave.
+    
+    Why are you still reading this! TURN BACK! YOU AREN'T WELCOME HERE! PLAGUE UPON YOU!
+    
+    -->
+        <head>
+            <meta charset="utf-8">
+            <title>I Think This is Arc</title>
+        </head>
+        <style>
+            h1 {
+                font-family:sans-serif;
+            }
+            
+            ol {
+                font-family:mono;
+                font-size:1.2em;
+            }
+            
+            body {
+                background-color:rgb(186, 174, 106);
+            }
+            
+            #numb1 {
+                color:rgb(247, 255, 0);
+            }
+            #numb2 {
+                color:rgb(232, 232, 232);
+            }
+            #numb3 {
+                color:rgb(201, 129, 47);
+            }
+            
+            #hiddenMessage {
+                color:rgb(186, 174, 106);
+            }
+        </style>
+        <body>
+            <h1 align="center">I Think This is Arc</h1>
+            <h2 align="center">?????</h2>
+            <h5 align="center" id="hiddenMessage">{hidden in plain sight 68321}</h5>
+            <hr>
+            <h2 align="center">Score<br>board</h2>
+            <ol id="scoreBoard">
+                <span id="numb1"><li>___...___...___</li></span>
+                <li id="numb2">___...___...___</li>
+                <li id="numb3">___...___...___</li>
+                <li>___...___...___</li>
+                <li>___...___...___</li>
+            </ol>
+            <h3>What is Arc?</h3>
+            <p>Good question! In Arc you will use the clues I give you to find a webpage, image, or something else online. You will find more clues to more pages or you will find the solution to the puzzle. The solution will take the form of a word or phrase that you will type into the solution form under the puzzle hint. If you correctly solv the puzzle, you will gain a certain amount of points that will be added to the scoreboard. Happy hunting!</p>
+            <h3>Tod<br>ay's puz<br>zle</h3>
+            <p>Bing?<br>campcomic/120<br>doc<br>(link)</p>
+            
+        </body>
+    </html>
